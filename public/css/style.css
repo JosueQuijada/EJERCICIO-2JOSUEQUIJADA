@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+header h3 {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.texto {
+    font-family: verdana;
+    font-size: 50px;
+}
+
+.texto a {
+    color: #000;
+    text-decoration: overline underline;
+}
+
+.texto a:hover {
+    color: rgba(35, 255, 35, 0.815);
+    text-decoration: overline underline;
+}
+
+.verde-subrayado {
+    color: #07990e;
+    text-decoration: underline;
+}
+
+.rojo-subrayado {
+    color: #F70105;
+    text-decoration: underline;
+}
+
+.azul {
+    color: #0111f7;
+}
+
+.rojo {
+    color: #F70105;
+}
+
+.negro {
+    color: #000;
+}
+
+.grande {
+    font-weight: bold;
+    font-size: 90px;
+}
